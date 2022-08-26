@@ -7,3 +7,9 @@
 2. 文件传输
 
 实在是没时间了，如果有后来者可以读懂我们这个项目，并且完善，相信可以拿到最好的成绩，没有之一。
+
+
+<img width="795" alt="image" src="https://user-images.githubusercontent.com/94102418/186810523-8aefbbf5-1050-4fe3-8c64-dda54be4a643.png">
+
+![image](https://user-images.githubusercontent.com/94102418/186810557-059342d8-2393-491d-80a3-3d331aadb49e.png)
+
