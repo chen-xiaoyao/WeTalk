@@ -10,6 +10,8 @@
 
 实在是没时间了，如果有后来者可以读懂我们这个项目，并且完善，相信可以拿到最好的成绩，没有之一。
 
+另一个备份的链接：https://github.com/llada60/2022_Chatroom_qt
+
 # 效果展示
 
 <img width="107" alt="9fbdfed36872cb93bb2a6d3fa0126e7" src="https://user-images.githubusercontent.com/94102418/186854180-cc2e3dbd-fe07-40cf-846d-d30c70cd0d91.png">
